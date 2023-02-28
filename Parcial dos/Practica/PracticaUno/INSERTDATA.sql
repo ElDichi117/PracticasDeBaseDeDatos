@@ -1,0 +1,63 @@
+--Llenando tabla de los trabajadores
+
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (1,'LUIS','SUAREZ','ACOSTA','M','10/08/1956',4,3,2);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (2,'EMA','PEREZ','ALFONSO','F','11/08/1956',1,2,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (3,'ANA','PEREIRA','ANGELUCCI','F','12/08/1956',1,1,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (4,'ADOLFO','GUTIERREZ','BACCIO','M','13/08/1956',1,3,2);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (5,'SOFIA','LOPEZ','BARCIA','F','14/08/1956',5,2,2);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (6,'RODRIGO','ALFONSO','BRESIA','M','15/08/1956',4,3,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (7,'BEATRIZ','PEÑA','COSTA','F','16/08/1956',5,5,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (8,'PEDRO','ACOSTA','COSTELA','M','17/08/1956',5,3,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (9,'MARTHA','COSTELA','DE LOS SANTOS','F','18/08/1956',4,2,2);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (10,'LEONCIO','PERERA','FERREIRA','M','19/08/1956',5,1,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (11,'DANIEL','BACCIO','GALO','M','20/08/1956',2,3,2);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (12,'LORENA','LOPEZ','GARCIA','F','21/08/1956',5,3,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (13,'JULIO','HERNANDEZ','GARCIA','M','22/08/1956',2,5,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (14,'PEDRO','GARCIA','GIMENEZ','M','23/08/1956',2,4,2);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (15,'JULIAN','COSTA','GUTIERREZ','M','24/08/1956',2,3,2);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (16,'SONIA','MARTINEZ','HERNANDEZ','F','25/08/1956',1,1,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (17,'PABLO','GARCIA','HERRERA','M','26/08/1956',5,4,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (18,'FEDERICO','FERREIRA','LOPEZ','M','27/08/1956',1,3,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (19,'MARIA','VICENTE','LOPEZ','F','28/08/1956',2,2,2);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (20,'IRMA','PEÑA','MARTINEZ','F','29/08/1956',5,5,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (21,'RODOLFO','GALO','PALACIOS','M','30/08/1956',5,3,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (22,'SANTIAGO','HERRERA','PEÑA','M','31/08/1956',3,3,2);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (23,'ELBIO','GIMENEZ','PEÑA','M','01/09/1956',5,3,2);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (24,'JULIO','BRESIA','PEREIRA','M','02/09/1956',2,1,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (25,'JOUAQUIN','BARCIA','PERERA','M','03/09/1956',2,3,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (26,'ESTELA','PALACIOS','PEREZ','F','04/09/1956',5,2,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (27,'LEONARDO','RODAS','RODAS','M','05/09/1956',3,3,2);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (28,'FABRICIO','ANGELUCCI','SUAREZ','M','06/09/1956',2,1,1);
+INSERT INTO "LAEU_SC"."cat_empleados" (num_emp, nom_emp, apa_emp, ama_emp, sex_emp, fna_emp, barrio_emp, puesto_emp, tiptra_emp) VALUES (29,'JACINTO','DE LOS SANTOS','VICENTE','M','07/09/1956',1,3,1);
+
+--Llenando tabla de nomina
+
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (1,1,276,2);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (2,0,22,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (3,0,21,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (4,0,128,2);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (5,0,490,2);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (6,3,22,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (7,2,22,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (8,4,18,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (9,1,260,2);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (10,1,22,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (11,1,168,2);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (12,1,22,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (13,0,16,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (14,0,185,2);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (15,0,450,2);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (16,5,26,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (17,2,15,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (18,4,20,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (19,3,120,2);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (20,7,22,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (21,8,22,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (22,0,176,2);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (23,0,168,2);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (24,0,19,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (25,0,10,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (26,0,21,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (27,1,265,2);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (28,1,22,1);
+INSERT INTO "LAEU_SC"."nomina" (num_emp_nom, faltas_nom, canti_tra_nom, tip_pag_nom) VALUES (29,2,22,1);
